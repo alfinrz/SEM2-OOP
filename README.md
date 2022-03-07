@@ -1,1 +1,2 @@
-# SEM2-OOP
+# Semester 2 of college
+#Subject: OOP
